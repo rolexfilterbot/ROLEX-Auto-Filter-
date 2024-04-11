@@ -67,9 +67,15 @@ python3 bot.py
 <p>
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
-
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/rolexfilterbot/ROLEX-Auto-Filter-&branch=maim&name=rolexdasautofilterbot)
+
+</p>
+
+</details><summary>Deploy To Render</summary>
+<p>
+
+
+[![Deploy to Render]https://render.com/deploy?repo=https://github.com/rolexfilterbot/ROLEX-Auto-Filter-
 
 </p>
 
