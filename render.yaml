@@ -10,18 +10,26 @@ services:
     envVars:
       - key: BOT_TOKEN 
         sync: true
+        value: 7078618228:AAGTQ7kfJg6UYl69nzFwaK8QRiDDF5Gp9jU
       - key: API_ID 
         sync: true
+        value: 28991562
       - key: API_HASH
         sync: true
+        value: 215d93eeacd3d1c704887f80b0b914f4
       - key: ADMINS
-        sync: true 
+        sync: true
+        value: 6107997458
       - key: DATABASE_NAME
         sync: true
+        value: Cluster100
       - key: DATABASE_URI
         sync: true
+        value: https://cloud.mongodb.com/v2/661283c4eb8fd13d293245d1#/clusters/detail/Cluster100
       - key: PICS
         sync: true
+        value: https://private-user-images.githubusercontent.com/166034278/320255210-407bbff3-db9b-4515-aaed-6a895eadb0bf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI5MDk5NTMsIm5iZiI6MTcxMjkwOTY1MywicGF0aCI6Ii8xNjYwMzQyNzgvMzIwMjU1MjEwLTQwN2JiZmYzLWRiOWItNDUxNS1hYWVkLTZhODk1ZWFkYjBiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxMlQwODE0MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMTNiM2Y2M2Y1Mjc1NWE0ZGVmZmYxMTg0ODAwYjllZDcwN2Y2NWMwYjdjZmIyN2RlMGUwOTM1NjhlNzE5ZWY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.COMJ32KEmANoDi28QJj4xeE10dhPT-gZZwhvWU_tdpw
       - key: LOG_CHANNEL
         sync: true
+        value: -1001942379655
     autoDeploy: true
